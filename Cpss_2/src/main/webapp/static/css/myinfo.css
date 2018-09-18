@@ -1,0 +1,16 @@
+@CHARSET "UTF-8";
+table{
+	width:200px;
+}
+body{
+	margin:0px;
+	padding:0px;
+}
+.container-fluid{
+	border-style: solid;
+	 border-right-style: none;
+	 border-width: 1px;
+	 border-color: #7EC0EE;
+	 margin:0px 0px 0px 10px;
+	 height:480px;
+}

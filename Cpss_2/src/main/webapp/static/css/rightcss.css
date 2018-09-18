@@ -1,0 +1,53 @@
+@CHARSET "UTF-8";
+body{
+	margin:0px;
+	padding:0px;
+/* 	background-color:#C6E2FF; */
+}
+th{
+		text-align:center;
+}
+#page_area{
+	top:380px;
+	width:1000px;
+	position:fixed;
+}
+#select_type{
+	width:100px;
+}
+#select_page_area{
+	top:380px;
+	width:1000px;
+	position:fixed;
+}
+#page_info_area{
+	 position:float;
+}
+#page_nav_area{
+	 position:float;
+	 float:right;
+}
+#page_info_area1{
+	 position:float;
+}
+#page_nav_area1{
+	 position:float;
+	 float:right;
+}
+.container-fluid{
+	 border-style: solid;
+	 border-right-style: none;
+	 border-width: 1px;
+	 border-color: #7EC0EE;
+	 margin:0px 0px 0px 10px;
+	 height:480px;
+	 width:1290px;
+}
+#main1,#main3{
+	position:float;
+	 float:left;
+}
+#main2,#main4{
+	position:float;
+	 float:right;
+}

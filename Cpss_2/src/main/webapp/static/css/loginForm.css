@@ -1,0 +1,32 @@
+body{
+	background-color:#e5f0ff;
+	font-size:20px;
+	text-align:center;
+	background-image:url(../image/01.jpg);
+	background-size:100% 800px;
+}
+
+#login{
+background-color:rgba(255,255,255,0.35);
+ width:450px;
+ height:370px;
+  /* 居中  */ 
+ text-align:center; /* 文字等内容居中 */
+ position:fixed;
+ left:530px;
+ top:110px;
+ padding:0px;
+}
+#loginname,#password{
+
+width:260px;
+height:40px;
+margin:2px;
+}
+button{
+margin:10px;
+width:120px;
+height:40px;
+font-family:宋体;
+font-size:20px;
+}

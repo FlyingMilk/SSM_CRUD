@@ -1,0 +1,33 @@
+@CHARSET "UTF-8";
+#left_eare{
+
+	 position: absolute;
+	
+}
+
+#a_eare1,#a_eare2,#a_eare3,#a_eare4{
+	 border-style: solid;
+	 border-left-style: none;
+	 border-width: 1px;
+	 border-color: #7EC0EE;
+	 height:70px;
+	 width:220px;
+	 text-align:center;
+	 vertical-align:bottom;
+	
+}
+#font_eara{
+	  
+	 text-align:center;
+	vertical-align:bottom;
+}
+a{
+	text-decoration:none;
+	font-family:微软雅黑;
+	text-align:center;
+	font-size:36px;
+	vertical-align:bottom;
+}
+body{
+	/* background-color:#C6E2FF; */
+}

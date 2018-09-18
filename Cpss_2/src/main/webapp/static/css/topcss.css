@@ -1,0 +1,23 @@
+@CHARSET "UTF-8";
+body{
+	background-color:#97FFFF;
+	font-size:18px;
+}
+a{
+	font-family:微软雅黑;
+	font-size:18px;
+}
+#top_h1{
+  
+    position: absolute;
+    left: 15%;
+    margin-left: -150px;
+    font-family:微软雅黑;
+    font-weight:600;
+    background-image: -webkit-linear-gradient(left,blue,#66ffff 10%,#cc00ff 20%,#CC00CC 30%, #CCCCFF 40%, #00FFFF 50%,#CCCCFF 60%,#CC00CC 70%,#CC00FF 80%,#66FFFF 90%,blue 100%);
+    -webkit-text-fill-color: transparent;/* 将字体设置成透明色 */
+    -webkit-background-clip: text;/* 裁剪背景图，使文字作为裁剪区域向外裁剪 */
+    -webkit-background-size: 200% 100%; 
+    -webkit-animation: masked-animation 4s linear infinite;
+    font-size: 50px;
+}
